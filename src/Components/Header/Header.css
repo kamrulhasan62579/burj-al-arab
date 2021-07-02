@@ -1,0 +1,14 @@
+nav ul{
+  display: flex;
+  line-height: 50px;
+  background: brown;
+}
+ul li{
+    list-style: none;
+    padding-left: 10px;
+    color: #fff;
+}
+*{
+    margin: 0;
+    padding: 0;
+}

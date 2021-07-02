@@ -1,0 +1,17 @@
+.single-meal{
+    border: 3px solid rgb(251, 255, 7);
+    padding: 30px;
+}
+p{
+    text-align: justify;
+}
+.single-meal img{
+    height: 200px;
+    width: 100%;
+}
+.single-meal button{
+    background: brown;
+    color: #fff;
+    height: 30px;
+    width: 100px;
+}

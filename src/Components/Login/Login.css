@@ -1,0 +1,15 @@
+.error{
+    color: red;
+    font-size: 12px;
+}
+.input{
+    height: 40px;
+    width: 500px;
+}
+.newUserForm{
+    text-align: center;
+    padding-top: 70px;
+}
+.popup button{
+    width: 280px;
+}
